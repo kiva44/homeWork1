@@ -1,5 +1,5 @@
 fun main() {
 
-    println(message = "asd!")
+    println(message = "First app")
 
 }
